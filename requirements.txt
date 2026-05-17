@@ -1,0 +1,8 @@
+
+---
+
+## 📄 File 2: `requirements.txt`
+
+```txt
+# No external dependencies required – only Python 3.8+
+# This file is kept for extensibility.
